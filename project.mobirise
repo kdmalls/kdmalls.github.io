@@ -341,7 +341,7 @@
           "_once": false,
           "_params": {
             "slides__autoplay": true,
-            "slides__autoplayInterval": 4000,
+            "slides__autoplayInterval": "2000",
             "slides__showBullets": true,
             "slides": [
               {
@@ -1715,7 +1715,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/k-mall-1145x6770.jpg",
+                "image": "@PROJECT_PATH@/assets/images/k-mall-1145x6771.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
