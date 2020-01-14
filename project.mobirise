@@ -33,7 +33,8 @@
     "versionFirst": "4.11.4",
     "siteFonts": [],
     "uniqCompNum": 15,
-    "versionPublish": "4.11.4"
+    "versionPublish": "4.11.4",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
